@@ -1,0 +1,10 @@
+﻿  camera.cpp
+c:\users\zswt\source\repos\project7\project7\camera.cpp(111): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\users\zswt\source\repos\project7\project7\camera.cpp(121): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\zswt\source\repos\project7\project7\camera.cpp(123): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\zswt\source\repos\project7\project7\camera.cpp(125): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\zswt\source\repos\project7\project7\camera.cpp(127): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\zswt\source\repos\project7\project7\camera.cpp(129): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\zswt\source\repos\project7\project7\camera.cpp(131): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\zswt\source\repos\project7\project7\camera.cpp(133): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  Project7.vcxproj -> C:\Users\ZSWT\source\repos\Project7\x64\Debug\Project7.exe
